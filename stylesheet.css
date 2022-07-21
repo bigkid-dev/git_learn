@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: azure;
+  align-items: center;
+  justify-content: center;
+}
+.biggest-box {
+  border-style: solid;
+  width: 20%;
+  height: 100px;
+  background-color: blue;
+  margin: auto;
+}
