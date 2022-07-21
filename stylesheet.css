@@ -14,3 +14,10 @@ body {
   background-color: blue;
   margin: auto;
 }
+.big-box {
+  border-style: solid;
+  width: 50%;
+  height: 50px;
+  background-color: rgb(255, 0, 43);
+  margin: auto;
+}
